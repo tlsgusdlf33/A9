@@ -1,0 +1,76 @@
+{
+ "title": "10월 넷째 주말",
+ "startDate": "2026-10-24",
+ "endDate": "2026-10-25",
+ "holidayNote": "주말 · 초안",
+ "updatedAt": "2026-10-06",
+ "days": [
+  {
+   "date": "2026-10-24",
+   "status": "선택",
+   "event": "인천 영화 주간",
+   "place": "CGV인천연수",
+   "travel": "차 약 30분",
+   "fee": "무료",
+   "summary": "상영작 전부 무료. 로비 체험 '나의 작은 영화관', '우리는 서로의 미래다'. 비 오는 날 좋은 실내 일정."
+  },
+  {
+   "date": "2026-10-25",
+   "status": "추천",
+   "event": "양천가족 거리축제",
+   "place": "신정네거리역 ~ 신정1동우체국",
+   "travel": "대중교통 약 55분",
+   "hours": "10:30~21:00",
+   "fee": "무료",
+   "summary": "키즈플레이존, 북페스티벌, AI 포토존, 슬라임 체험, 거리 퍼레이드.",
+   "booking": [
+    {
+     "label": "교통통제",
+     "text": "신월로 10/24 22시 ~ 10/26 04시 전면 통제 — 대중교통 권장",
+     "required": true
+    }
+   ],
+   "timeline": [
+    {
+     "time": "10:00",
+     "what": "출발 (7호선 → 대림 → 2호선 신정지선)",
+     "where": ""
+    },
+    {
+     "time": "10:55",
+     "what": "키즈플레이존, 슬라임 체험",
+     "where": "신정네거리"
+    },
+    {
+     "time": "12:00",
+     "what": "퍼레이드 관람, 점심",
+     "where": ""
+    },
+    {
+     "time": "13:30",
+     "what": "북페스티벌, AI 포토존",
+     "where": ""
+    },
+    {
+     "time": "15:00",
+     "what": "출발 → 16:00 귀가",
+     "where": ""
+    }
+   ]
+  }
+ ],
+ "prep": [],
+ "unknowns": [
+  "영화 주간 상영시간표 미공개"
+ ],
+ "sources": [
+  {
+   "label": "양천가족 거리축제",
+   "url": "https://www.make2t.kr/2026/10/yangcheon-family-street-festival-2026.html"
+  },
+  {
+   "label": "인천 영화 주간",
+   "url": "http://www.incheonin.com/news/articleView.html?idxno=121153"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "title": "10월 마지막 주말",
+ "startDate": "2026-10-31",
+ "endDate": "2026-11-01",
+ "holidayNote": "주말 · 초안",
+ "updatedAt": "2026-10-06",
+ "days": [
+  {
+   "date": "2026-10-31",
+   "status": "추천",
+   "event": "인천 일러스트코리아",
+   "place": "송도컨벤시아",
+   "travel": "차 약 35분",
+   "hours": "10:00~18:00 (17:30 입장 마감)",
+   "fee": "1만 원 (사전 5천 원)",
+   "summary": "일러스트·캐릭터 작가 약 300부스. 캐릭터 좋아하는 초등학생에게 잘 맞음.",
+   "booking": [
+    {
+     "label": "사전결제",
+     "text": "10/29까지 사전등록·결제하면 5,000원",
+     "required": true
+    }
+   ],
+   "timeline": [
+    {
+     "time": "10:00",
+     "what": "출발",
+     "where": ""
+    },
+    {
+     "time": "10:35",
+     "what": "입장 (오전이 덜 붐빔)",
+     "where": "송도컨벤시아"
+    },
+    {
+     "time": "12:30",
+     "what": "점심",
+     "where": "센트럴파크 일대"
+    },
+    {
+     "time": "13:30",
+     "what": "수상택시 또는 산책",
+     "where": "센트럴파크"
+    },
+    {
+     "time": "15:00",
+     "what": "출발 → 15:35 귀가",
+     "where": ""
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "status": "선택",
+   "event": "인천 일러스트코리아 (마지막 날)",
+   "place": "송도컨벤시아",
+   "travel": "차 약 35분"
+  }
+ ],
+ "prep": [],
+ "unknowns": [],
+ "sources": [
+  {
+   "label": "인천 일러스트코리아 관람안내",
+   "url": "https://illustrationkorea.co.kr/incheon/visitors/guide/"
+  }
+ ]
+}
